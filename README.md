@@ -41,3 +41,4 @@ Keep in mind that `purchase order is irrelevant`. {A, B} is the same as {B, A}. 
 in a transaction, it is only `counted once` no matter how many times it appears in that transaction.
 
 
+Report : https://hackmd.io/@WithoutSounded/ByhNX3E2O
